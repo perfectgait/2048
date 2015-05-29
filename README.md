@@ -8,4 +8,4 @@
  instructions on running locally.
  
 ## Running
-`python 2048.py`
+`python merge.py`

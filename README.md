@@ -8,4 +8,4 @@
  instructions on running locally.
  
 ## Running
-`python merge.py`
+`python twenty_forty_eight.py`
